@@ -1,4 +1,4 @@
-
+{
  "sections": [
         {
           title: 'hats',
@@ -33,5 +33,6 @@
           linkUrl: 'shop/mens'
         }
          ]
+}
    
       
